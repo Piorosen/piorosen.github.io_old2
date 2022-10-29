@@ -30,7 +30,7 @@ order: 4
 [유전자 알고리즘을 이용한 효과적인 영상 생성 기법](/assets/paper/2019_08_유전자 알고리즘을 이용한 효과적인 영상 생성 기법.pdf)<br>
 차주형, 우영운, 이임건.(2019).유전자 알고리즘을 이용한 효과적인 영상 생성 기법.한국정보통신학회논문지,23(8),896-902.
 
-[An Effective Method for Generating Color Images Using Genetic Algorithm](/assets/paper/2019_06_An Effective Method for Generating Color Images Using Genetic Algorithm.pdf)
+[An Effective Method for Generating Color Images Using Genetic Algorithm](/assets/paper/2019_06_An Effective Method for Generating Color Images Using Genetic Algorithm.pdf)<br>
 Joo Hyoung Cha, Young Woon Woo.(2019).An Effective Method for Generating Color Images Using Genetic Algorithm.INTERNATIONAL CONFERENCE ON FUTURE INFORMATION & COMMUNICATION ENGINEERING,11(1),355-358.
 
 # Patents
@@ -67,8 +67,6 @@ Development of loading optimization and ship operation safety support service fo
 
 MES 시스템 중 웹에서 인식 가능한 바코드 리더기, 프린터기 모듈 구현, iFrame을 이용한 크롬의 탭과 같은 멀티 페이지 구현<br>
 21.06.22 ~ 21.06.23
-
-# 2020
 
 외주	레벤그리다 어플리케이션 외주 (아이폰 개발)<br>
 20.10.16 ~ 21.01.05	
