@@ -3,7 +3,7 @@ layout: post
 title: 졸업 프로젝트, 원격 데스크톱 노트북 개발
 author: piorosen
 categories: [Blogging, Develop]
-tags: [rfb, vnc, super-sampling, npu, gpu, accelerate, cloud, desktop]
+tags: [rfb, vnc, super-sampling, npu, gpu, accelerate, cloud, desktop, tinker-edge-r, rpi4b]
 hide_title: false
 ---
 
