@@ -35,7 +35,7 @@ Joo Hyoung Cha, Young Woon Woo.(2019).An Effective Method for Generating Color I
 
 # Patents
 
-영상 내 자막 키워드 추출 및 순위 산정 시스템 및 방법<br>
+[영상 내 자막 키워드 추출 및 순위 산정 시스템 및 방법](https://doi.org/10.8080/1020190165757)<br>
 21.06.22
 
 # Projects
