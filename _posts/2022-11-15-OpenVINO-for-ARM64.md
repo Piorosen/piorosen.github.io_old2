@@ -1,6 +1,6 @@
 ---
 layout: post
-title: OpenVINO for ARM64
+title: Arm64에서 동작하는 OpenVINO 빌드 방법 및 통합 과정
 author: piorosen
 categories: [Blogging, Develop]
 tags: [openvino, arm, aarch64, myriad, neural-compute-stick-2, ncs2, intel, npu]
