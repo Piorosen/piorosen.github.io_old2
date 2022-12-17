@@ -5,7 +5,7 @@ author: piorosen
 tags: [dns, srv, server, university, k8s, load-balancing, cloudflare, api, subdomain]
 hide_title: false
 # feature-img: "assets/img/feature-img/"
-categories: [Blogging, Develop]
+categories: [Blogging, Cloud]
 # thumbnail: "assets/img/thumbnails/feature-img/"
 ---
 

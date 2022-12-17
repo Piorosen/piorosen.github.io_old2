@@ -4,7 +4,7 @@ title: 학과 서버 수요와 활용방안 [보고서]
 author: piorosen
 tags: [report, ]
 hide_title: false
-categories: [Blogging, Develop]
+categories: [Blogging, Report]
 ---
 
 # 현재 시스템 구성과 사용지

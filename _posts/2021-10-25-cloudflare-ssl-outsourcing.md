@@ -2,7 +2,7 @@
 layout: post
 title: Cloudflare의 API 활용하여 서브도메인의 SSL 인증서와 DNS 관리
 author: piorosen
-categories: [Blogging, Develop]
+categories: [Blogging, Cloud]
 tags: [cloudflare, ssl, subdomain, api, macro]
 hide_title: false
 ---

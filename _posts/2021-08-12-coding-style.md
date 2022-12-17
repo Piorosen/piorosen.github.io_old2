@@ -4,7 +4,7 @@ title: UE4와 Unity에 적용된 컴포넌트 패턴 개발(CBD)을 적용 해�
 author: piorosen
 tags: [game-engine, coding-style, components, property]
 hide_title: false
-categories: [Blogging, Develop]
+categories: [Blogging, Design-Pattern]
 # feature-img: "assets/img/feature-img/"
 # feature-img: "http://placehold.it/700x300"
 # thumbnail: "assets/img/thumbnails/feature-img/"
