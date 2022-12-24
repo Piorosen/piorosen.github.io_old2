@@ -68,6 +68,9 @@ Development of loading optimization and ship operation safety support service fo
 
 # Outsourcing
 
+세벡스와 로잉머신의 블루투스의 센서 데이터를 수집하여 시각화하는 [[어플리케이션 외주]](https://apps.apple.com/us/app/topfit/id6444595677)(아이폰)<br>
+21.07.30 ~ 21.12.28
+
 MES 시스템 중 웹에서 인식 가능한 바코드 리더기, 프린터기 모듈 구현, iFrame을 이용한 크롬의 탭과 같은 멀티 페이지 구현<br>
 21.06.22 ~ 21.06.23
 
