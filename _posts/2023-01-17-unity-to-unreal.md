@@ -19,15 +19,15 @@ hide_title: false
 
 [https://docs.unity3d.com/Packages/com.unity.formats.fbx@2.0/manual/index.html](https://docs.unity3d.com/Packages/com.unity.formats.fbx@2.0/manual/index.html)
 
-![히힣](./assets/img/post/2023-01-17-fbx-exporter.png)
+![히힣](/assets/img/post/2023-01-17-fbx-exporter.png)
 
 FBX Exporter를 설치 한 뒤 프리팹을 우클릭하여 추출 모두 하면 된다.
 
-![히힣](./assets/img/post/2023-01-17-unity-rcport.png)
+![히힣](/assets/img/post/2023-01-17-unity-rcport.png)
 
 그 결과 아래처럼 모든 결과가 fbx로 추출 한 다음 언리얼엔진에서 임포트 하게 된다면 아래의 결과처럼 나오게 된다.
 
-![히힣](./assets/img/post/2023-01-17-result.png)
+![히힣](/assets/img/post/2023-01-17-result.png)
 
 
 

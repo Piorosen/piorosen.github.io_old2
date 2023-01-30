@@ -22,7 +22,7 @@ https://docs.unrealengine.com/4.27/ko/ProductionPipelines/ScriptingAndAutomation
 
 상속을 받은 뒤에 고냥 코드를 짜면 끝이난다. 필자의 경우에는 액터에 추가한 하위 컴포넌트 중 Static Mesh Component라면 모든 Static Mesh에 컬리전 박스를 생성하는 코드를 작성하였다. 모든 코드를 작성 한 뒤에 결과를 확인한다면 아래 처럼 결과를 확인할 수 있다.
 
-![a](./assets/img/post/2023-01-29-Editor.png)
-![a](./assets/img/post/2023-01-29-UE.png)
+![a](/assets/img/post/2023-01-29-Editor.png)
+![a](/assets/img/post/2023-01-29-UE.png)
 
-![a](./assets/img/post/2023-01-29-Result.png)
+![a](/assets/img/post/2023-01-29-Result.png)
