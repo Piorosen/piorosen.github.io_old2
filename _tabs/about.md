@@ -46,7 +46,7 @@ Joo Hyoung Cha, Young Woon Woo.(2019).An Effective Method for Generating Color I
 # Projects
 
 핀 불량 검사를 위한 인공지능 기반의 자동 판정 알고리즘 개발<br>
-22.04.01 ~ 6.30, 09.01 ~ 22.10.31
+22.04.01 ~ 6.30, 09.01 ~ 22.10.31(=공백기 : ETRI 인턴)
 
 크레인 카메라 영상을 이용한 야드장 내 작업자 안전 위치 모니터링<br>
 과학기술정보통신부 <br>
@@ -70,11 +70,17 @@ Development of loading optimization and ship operation safety support service fo
 
 # Outsourcing
 
+고정형태의 지능형 불법 주정차 단속 소프트웨어 개발<br>
+2023.01.01 ~ 2023.06.30
+
 세벡스와 로잉머신의 블루투스의 센서 데이터를 수집하여 시각화하는 [[어플리케이션 외주]](https://apps.apple.com/us/app/topfit/id6444595677)(아이폰)<br>
 21.07.30 ~ 21.12.28
 
 MES 시스템 중 웹에서 인식 가능한 바코드 리더기, 프린터기 모듈 구현, iFrame을 이용한 크롬의 탭과 같은 멀티 페이지 구현<br>
 21.06.22 ~ 21.06.23
+
+차량 부착형태의 불법 주정차 단속 소프트웨어 개발<br>
+2022.01.10 ~ 2022.05.31
 
 외주 레벤그리다 어플리케이션 외주 (아이폰 개발)<br>
 20.10.16 ~ 21.01.05	
