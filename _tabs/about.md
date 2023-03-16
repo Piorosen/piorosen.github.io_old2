@@ -90,7 +90,7 @@ Development of loading optimization and ship operation safety support service fo
 MES 시스템 중 웹에서 인식 가능한 바코드 리더기, 프린터기 모듈 구현, iFrame을 이용한 크롬의 탭과 같은 멀티 페이지 구현<br>
 21.06.22 ~ 21.06.23
 
-족민의 달배(음식 역경매 서비스 플랫폼) 서비스 개발 [[[메인 화면](https://moon.udon.party/)], [[가게 화면](https://restaurant-moon.udon.party/)], [[관리자]](https://admin-moon.udon.party/))[<br>
+족민의 달배(음식 역경매 서비스 플랫폼) 서비스 개발 [[[메인 화면](https://moon.udon.party/)], [[가게 화면](https://restaurant-moon.udon.party/)], [[관리자]](https://admin-moon.udon.party/)]<br>
 2022-01-01 ~ 2022-12-31
 
 차량 부착형태의 불법 주정차 단속 소프트웨어 개발<br>
