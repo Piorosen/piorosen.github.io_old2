@@ -49,6 +49,11 @@ ETRI 하계 연구 연수생 인턴 [ETRI 권용인 박사님]
 [An Effective Method for Generating Color Images Using Genetic Algorithm](/assets/paper/2019_06_An Effective Method for Generating Color Images Using Genetic Algorithm.pdf)<br>
 Joo Hyoung Cha, Young Woon Woo.(2019).An Effective Method for Generating Color Images Using Genetic Algorithm.INTERNATIONAL CONFERENCE ON FUTURE INFORMATION & COMMUNICATION ENGINEERING,11(1),355-358.
 
+[유전자 알고리즘을 이용한 흑백 이미지 생성 기법
+](/assets/paper/2019_05_유전자_알고리즘을_이용한_흑백_이미지_생성기법.pdf)<br>
+Joo Hyoung Cha, Dong Sung Kang, Moo Sang Song, Tae Hyeon Kweon, Young Woon Woo.(2019).Gray Image Generation Methods Using Genetic Algorithm.한국정보통신학회 2019년도 춘계학술대회 2019 May 23, pp.265-267
+
+
 # Patents
 
 [영상 내 자막 키워드 추출 및 순위 산정 시스템 및 방법](https://doi.org/10.8080/1020190165757)<br>
@@ -62,14 +67,14 @@ Joo Hyoung Cha, Young Woon Woo.(2019).An Effective Method for Generating Color I
 크레인 카메라 영상을 이용한 야드장 내 작업자 안전 위치 모니터링<br>
 과학기술정보통신부 <br>
 22.01.01 ~ 22.02.28	<br>
-
+<!-- 
 AI 머신러닝 기반 데이터 분석 및 헬스케어 체온계 및 관리시스템 개발<br>
 과학기술정보통신부<br>
 20.10.01 ~ 21.12.31
 
 해양시추장비 통합 운용제어 시스템 및 HILS 기반 검증시스템 개발<br>
 산업통상자원부 산업기술혁신사업<br>
-19.08.01 ~ 21.05.31
+19.08.01 ~ 21.05.31 -->
 
 빅데이터 영상분석기능을 탑재한 능동형 영상 촬영 및 서비스 시스템<br>
 과학기술정보통신부<br>
