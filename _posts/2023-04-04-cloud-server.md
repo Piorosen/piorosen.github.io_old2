@@ -2,13 +2,9 @@
 layout: post
 title: [Exten Server] C# 클라우드를 서버처럼 이용하기
 author: piorosen
+categories: [Blogging, Legacy]
 tags: [server, cloud, virtual-server, chatting]
 hide_title: false
-# feature-img: "assets/img/feature-img/"
-categories: [Blogging, Legacy]
-# feature-img: "assets/img/post/2021-05-22-dfy_icon.png"
-# thumbnail: "assets/img/thumbnails/feature-img/"
-# thumbnail: "assets/img/post/2021-05-22-dfy_icon.png"
 ---
 
 # 주의! 레거시 
