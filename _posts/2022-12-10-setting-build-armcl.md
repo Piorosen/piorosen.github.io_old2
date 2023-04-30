@@ -16,7 +16,7 @@ ArmCL에 대해 설명하기 앞서 필요한 전제 조건을 나열한다. 우
 
 그래서 빌드가 가능한 운영체제와, 실행 가능한 환경이 나눠지는것이다. 또한 `ArmCL`은 `CPU`, `GPU` 가속화를 지원하지만, 내부적으로 호환성을 위해 `#ifdef` 형식으로 운영체제별 구현이 되어 있습니다. 
 
-![arm architecture](/assets/img/post/2022-12-10-armnn.PNG)
+![arm architecture](/assets/img/post/2022-12-10-armnn.png)
 [출처 : Build Arm NN custom backend plugins](https://developer.arm.com/-/media/Arm%20Developer%20Community/PDF/Machine%20Learning/Machine%20Learning%20PDF%20Tutorials/Build%20Arm%20NN%20custom%20backend%20plugins.pdf?revision=100c542f-c3de-4389-8379-c17b31ea1f61&psig=AOvVaw1oRc0dKcK63TcxZD59zpds&ust=1670775943596000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCNCAu8m77_sCFQAAAAAdAAAAABAE)
 
 ArmCL은 위의 그림처럼 볼 때, NEON과 CL을 가지고 있다는 형식으로 표현이 되어 있다. NEON은 Arm CPU의 SIMD(Single Instruction Multi Data, 즉 1회 명령어로 여러개의 데이터를 처리하는 기술이다.) 기술 명이며이다. 실제로 코드를 분석하게 된다면 NEON을 랩핑하여 만든 구현체와 OpenCL을 랩핑하여 제공되는 버전 총 2가지가 존재한다. 그래서 OpenCL을 통해 실행한다면, 실행은 어떠한 환경에서든지 동작을 지원한다. 그러나 특정 CPU의 특성을 타는 NEON의 경우 동작하지 않는다.

@@ -43,6 +43,6 @@ JAVA는 C/C++ 계열의 컴파일 언어와 다르게, 중간 언어(Java의 경
 
 실험 검증을 하기 위해 암호화 함수 호출하여 서버에서 정상적으로 인식하는지로 확인하였다. 추가적인 실험을 한 결과, 정상적으로 동작하는것을 확인하였다.
 
-![a](/assets/img/post/2023-04-02-01.PNG)
-![a](/assets/img/post/2023-04-02-02.PNG)
-![a](/assets/img/post/2023-04-02-03.PNG)
+![a](/assets/img/post/2023-04-02-01.png)
+![a](/assets/img/post/2023-04-02-02.png)
+![a](/assets/img/post/2023-04-02-03.png)

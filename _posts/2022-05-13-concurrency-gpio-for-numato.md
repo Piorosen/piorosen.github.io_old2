@@ -13,7 +13,7 @@ hide_title: false
 
 |GPIO Module Demo 프로그램|
 |:---:|
-|![GPIO 이미지](/assets/img/post/2022-05-13-gpio-demo.PNG)|
+|![GPIO 이미지](/assets/img/post/2022-05-13-gpio-demo.png)|
 
 # 신기한 구조
 
