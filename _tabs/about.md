@@ -101,7 +101,7 @@ MES 시스템 중 웹에서 인식 가능한 바코드 리더기, 프린터기 �
 차량 부착형태의 불법 주정차 단속 소프트웨어 개발<br>
 2022.01.10 ~ 2022.05.31
 
-외주 레벤그리다 어플리케이션 외주 (아이폰 개발)<br>
+외주 레벤그리다 어플리케이션 외주 [(아이폰 개발)](https://blog.naver.com/PostView.naver?blogId=lebengrida&logNo=222620909582&parentCategoryNo=&categoryNo=&viewDate=&isShowPopularPosts=false&from=postList)<br>
 20.10.16 ~ 21.01.05	
 
 [누리아이엔에스](http://directfyou.com/) 페이지 외주, 서브 도메인, 사용자 페이지 UI 변경 및 고객 방문 카운팅 프로그램 제작. 유지보수 기간 포함.<br>
