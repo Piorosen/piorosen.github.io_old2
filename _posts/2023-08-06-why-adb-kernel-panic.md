@@ -54,13 +54,15 @@ hide_title: false
 ```
 This is intended behavior, processes from adb shell have a default
 oom_score_adj of -950, so the launcher will get
- oom-killed before anything you run from adb shell does.
+oom-killed before anything you run from adb shell does.
 ```
 
 으로 받았으며, 이를 해석하게 되면 아래의 문장과 같이 됩니다.
 
 ```
-메모리 부족하게 될 경우 우선순위에 따라서 순차적으로 프로그램을 종료하게 됩니다. 그리고 adb shell이 SystemUI 보다 더 높은 메모리 점유에 대한 우선순위를 가지고 있어서 발생한 문제입니다.
+메모리 부족하게 될 경우 우선순위에 따라서 순차적으로 프로그램을 
+종료하게 됩니다. 그리고 adb shell이 SystemUI 보다 더 높은 메모리 
+점유에 대한 우선순위를 가지고 있어서 발생한 문제입니다.
 ```
 
 그렇다면 `realloc`과 `vector`에 계속 데이터를 삽입하였을 때에 대한 문제는 해결이 되었지만, `malloc`에 대한 문제는 아직 해결이 되지 않았습니다. `malloc`만 왜? `bad_alloc`이 발생하였는가? 는 해결이 되지 않았습니다.
