@@ -52,7 +52,9 @@ hide_title: false
 응답으로 받은 결과로는 아래와 같습니다.
 
 ```
-This is intended behavior, processes from adb shell have a default oom_score_adj of -950, so the launcher will get oom-killed before anything you run from adb shell does.
+This is intended behavior, processes from adb shell have a default
+oom_score_adj of -950, so the launcher will get
+ oom-killed before anything you run from adb shell does.
 ```
 
 으로 받았으며, 이를 해석하게 되면 아래의 문장과 같이 됩니다.
@@ -66,7 +68,9 @@ This is intended behavior, processes from adb shell have a default oom_score_adj
 그래서 이에 대해 추가적으로 질문을 해본 결과로는 아래와 같습니다.
 
 ```
-That's because you're not touching the allocations, so no actual memory pages are being allocated. You're running out of address space or virtual memory mappings, not actual memory.
+That's because you're not touching the allocations, so no actual
+memory pages are being allocated. You're running out of address
+space or virtual memory mappings, not actual memory.
 ```
 
 `malloc`과 `new`는 실제 물리적인 주소와 메모리 할당을 합니다. 하지만 `realloc`의 경우에는 물리적인 주소를 1GB 이상 요청하게 된 경우, 1GB 메모리 공간을 만드는 것은 매우 어렵습니다. 그래서, 가상 메모리란 개념을 도입하여 데이터를 관리하고 있습니다. 
