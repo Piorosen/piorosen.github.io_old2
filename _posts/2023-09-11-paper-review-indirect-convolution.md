@@ -9,7 +9,8 @@ hide_title: false
 
 # 개요
 
-[논문 원본](https://arxiv.org/abs/1907.02129)
+[[논문 원본]](https://arxiv.org/abs/1907.02129)
+
 추신. 누구나 읽고 이해하기 편하게 하기 위해 작성한 내용입니다. 논문의 내용의 핵심을 전달하고자 일부 내용이 누락 생략을 할 수 있습니다.
 
 ARM 회사에서 만든 딥러닝 추론 프레임워크인 ACL([Arm Compute Library](https://github.com/arm-software/ComputeLibrary))에서 코드 분석하던 중, GEMM Direct, GEMM General, Winograd Convolution를 활용하는 것을 알 수 있습니다. [[필자가 쓴 논문]](/assets/paper/2023_07_이기종_멀티코어_CPU에서_프로파일_기반_딥_러닝_연산_최적화_기법.pdf)에서 크게 3 종류가 있으며, 추가적으로 Naive, FFT(고속 푸리에 연산)을 통해 수행이 되기도 합니다.
