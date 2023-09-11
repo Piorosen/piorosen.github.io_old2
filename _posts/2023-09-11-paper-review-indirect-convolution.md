@@ -2,7 +2,7 @@
 layout: post
 title: The Indirect Convolution 논문 리뷰 
 author: piorosen
-categories: [Blogging, Develop]
+categories: [Paper, Review]
 tags: [convolution, pointer, indirect, removal-im2col, removal-transpose]
 hide_title: false
 ---
