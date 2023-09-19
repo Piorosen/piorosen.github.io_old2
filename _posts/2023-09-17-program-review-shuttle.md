@@ -38,7 +38,3 @@ sshuttle --dns -vr {UserID}@{ServerIP}:{SSHPort} 0/0
 # 결론
 
 백도어가 필요하다면 역시 SSH만 설치하더라도 충분하고, 최고입니다.
- 
-
-
- 
