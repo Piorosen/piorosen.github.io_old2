@@ -20,9 +20,9 @@ ETRI 하계 연구 연수생 인턴 [ETRI 권용인 박사님]
 
 # Publications
 
+
 [초해상도 및 기반의 효율적인 가상 데스크톱 인프라 설계](/assets/paper/2023_09_초해상도_및_기반의_효율적인_가상_데스크톱_인프라_설계.pdf)<br>
 차주형,박현준, 임미선, 곽배섭, 권태현, 배성준, 우영운.(2023).한국정보통신학회 인공지능 및 응용 워크숍(우수논문상 >,< )
-
 
 [이기종 멀티코어 CPU에서 프로파일 기반 딥 러닝 연산 최적화 기법](/assets/paper/2023_07_이기종_멀티코어_CPU에서_프로파일_기반_딥_러닝_연산_최적화_기법.pdf)<br>
 차주형, 권용인, 이제민.(2023). 전자공학회논문지
@@ -116,3 +116,8 @@ MES 시스템 중 웹에서 인식 가능한 바코드 리더기, 프린터기 �
 
 Mono(C#)을 이용하여 의학 장비 UI 및 애니메이션 최적화 작업 및 고도화<br>
 20.03.12 ~ 20.03.20
+
+
+# 테스트 영상
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Mj5qULjsSYE?si=xXWfXsq8pozaq8NY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
