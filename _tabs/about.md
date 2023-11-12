@@ -20,7 +20,8 @@ ETRI 하계 연구 연수생 인턴 [ETRI 권용인 박사님]
 
 # Publications
 
-## Journal
+<details>
+<summary>Journal</summary>
 
 [이기종 멀티코어 CPU에서 프로파일 기반 딥 러닝 연산 최적화 기법](/assets/paper/2023_07_이기종_멀티코어_CPU에서_프로파일_기반_딥_러닝_연산_최적화_기법.pdf)<br>
 차주형, 권용인, 이제민.(2023). 전자공학회논문지
@@ -37,7 +38,10 @@ ETRI 하계 연구 연수생 인턴 [ETRI 권용인 박사님]
 [유전자 알고리즘을 이용한 효과적인 영상 생성 기법](/assets/paper/2019_08_유전자 알고리즘을 이용한 효과적인 영상 생성 기법.pdf)<br>
 차주형, 우영운, 이임건.(2019).유전자 알고리즘을 이용한 효과적인 영상 생성 기법.한국정보통신학회논문지,23(8),896-902.
 
-## Conference
+</details>
+
+<details>
+<summary>Conference</summary>
 
 [소리 정보를 이용한 딥 러닝 기반의 동작 인식](/assets/paper/2023_10_Deep_Learning_based_Motion_Recognition_Using_Sound_Event.pdf)<br>
 차주형,배성준,박지은,이준혁,장시웅,이현섭.(2023).한국정보통신학회 54회 추계종합학술대회
@@ -77,6 +81,7 @@ Joo Hyoung Cha, Young Woon Woo.(2019).An Effective Method for Generating Color I
 ](/assets/paper/2019_05_유전자_알고리즘을_이용한_흑백_이미지_생성기법.pdf)<br>
 Joo Hyoung Cha, Dong Sung Kang, Moo Sang Song, Tae Hyeon Kweon, Young Woon Woo.(2019).Gray Image Generation Methods Using Genetic Algorithm.한국정보통신학회 2019년도 춘계학술대회 2019 May 23, pp.265-267
 
+</details>
 
 # Patents
 
