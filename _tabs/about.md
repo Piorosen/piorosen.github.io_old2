@@ -18,10 +18,10 @@ ETRI 동계 연구 연수생 인턴 [ETRI 권용인 박사님]
 ETRI 하계 연구 연수생 인턴 [ETRI 권용인 박사님]
 2022년 07월 01일 ~ 2022년 08월 31일
 
-# Publications
+## Publications
 
 <details>
-<summary><h2>Journal</h2></summary>
+<h2><summary>Journal</summary></h2>
 
 <a href="/assets/paper/2023_07_이기종_멀티코어_CPU에서_프로파일_기반_딥_러닝_연산_최적화_기법.pdf">
 이기종 멀티코어 CPU에서 프로파일 기반 딥 러닝 연산 최적화 기법
@@ -45,7 +45,7 @@ ETRI 하계 연구 연수생 인턴 [ETRI 권용인 박사님]
 </details>
 
 <details>
-<summary><h2>Conference</h2></summary>
+<h2><summary>Conference</summary></h2>
 
 <a href="/assets/paper/2023_10_Deep_Learning_based_Motion_Recognition_Using_Sound_Event.pdf">
 소리 정보를 이용한 딥 러닝 기반의 동작 인식
