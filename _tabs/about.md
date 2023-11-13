@@ -7,17 +7,17 @@ order: 4
 <details>
 <summary>Carreres</summary>
 
-(주)은재팜 [스타트업]
-2023년 07월 01일 ~ 재직 중
+(주)은재팜 [스타트업]<br>
+2023년 07월 01일 ~ 재직 중<br><br>
 
-(주)은재팜 인턴 [동의대학교 이현섭 교수님 창업 회사]
-2023년 03월 01일 ~ 2023년 06월 30일
+(주)은재팜 인턴 [동의대학교 이현섭 교수님 창업 회사]<br>
+2023년 03월 01일 ~ 2023년 06월 30일<br><br>
 
-ETRI 동계 연구 연수생 인턴 [ETRI 권용인 박사님]
-2023년 01월 01일 ~ 2023년 02월 24일
+ETRI 동계 연구 연수생 인턴 [ETRI 권용인 박사님]<br>
+2023년 01월 01일 ~ 2023년 02월 24일<br><br>
 
-ETRI 하계 연구 연수생 인턴 [ETRI 권용인 박사님]
-2022년 07월 01일 ~ 2022년 08월 31일
+ETRI 하계 연구 연수생 인턴 [ETRI 권용인 박사님]<br>
+2022년 07월 01일 ~ 2022년 08월 31일<br><br>
 
 </details>
 
@@ -43,6 +43,7 @@ ETRI 하계 연구 연수생 인턴 [ETRI 권용인 박사님]
 </a><br>차주형, 최진석, 배유수, 우영운.(2020).한국정보통신학회논문지,24(2),186-191.<br><br>
 
 <a href="/assets/paper/2019_08_유전자 알고리즘을 이용한 효과적인 영상 생성 기법.pdf">
+유전자 알고리즘을 이용한 효과적인 영상 생성 기법
 </a><br>차주형, 우영운, 이임건.(2019),23(8),896-902.<br><br>
 
 </details>
@@ -65,11 +66,11 @@ ETRI 하계 연구 연수생 인턴 [ETRI 권용인 박사님]
 <a href="/assets/paper/2023_09_초해상도_및_기반의_효율적인_가상_데스크톱_인프라_설계.pdf">
 초해상도 및 기반의 효율적인 가상 데스크톱 인프라 설계
 </a><br>차주형,박현준, 임미선, 곽배섭, 권태현, 배성준, 우영운.(2023).한국정보통신학회 인공지능 및 응용 워크숍<br>
-[2023 인공지능 및 응용 워크숍 우수논문](https://kiice.org/116)<br><br>
+<a href="https://kiice.org/116">2023 인공지능 및 응용 워크숍 우수논문</a><br><br>
 
 <a href="/assets/paper/2023_02_이기종 컴퓨팅과 복수 신경망 추론 환경에서 높은 처리량을 위한 스케줄러 관한 연구.pdf">
 이기종 컴퓨팅과 복수 신경망 추론 환경에서 높은 처리량을 위한 스케줄러 관한 연구
-</a><br>차주형, 박제만, 권용인.(2023).대한통신학회 동계학술대회
+</a><br>차주형, 박제만, 권용인.(2023).대한통신학회 동계학술대회<br><br>
 
 <a href="/assets/paper/2022_11_단일 ISA 이기종 멀티 코어 구조를 위한 프로파일 기반 ArmCL 최적 스케줄 탐색.pdf">
 단일 ISA 이기종 멀티 코어 구조를 위한 프로파일 기반 ArmCL 최적 스케줄 탐색
@@ -151,24 +152,24 @@ Development of loading optimization and ship operation safety support service fo
 <details>
 <summary>Outsourcing</summary>
 
-유림아이엔에스 회사와 동일한 서버 구축 요청([주식회사 비성파트너스](http://oneshot114.com/))<br>
-23.10.20 ~ 23.11.11
+유림아이엔에스 회사와 동일한 서버 구축 요청(<a href="http://oneshot114.com/">[주식회사 비성파트너스]</a>)<br>
+23.10.20 ~ 23.11.11<br><br>
 
 고정형태의 지능형 불법 주정차 단속 소프트웨어 개발<br>
-2023.01.01 ~ 2023.06.30
+2023.01.01 ~ 2023.06.30<br><br>
 
 <details>
 <summary>프로젝트 소개 및 결과</summary>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VbWOYMZW-EI?si=bjt9umLbFQQEAaHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </details>
-세벡스와 로잉머신의 블루투스의 센서 데이터를 수집하여 시각화하는 [[어플리케이션 외주]](https://apps.apple.com/us/app/topfit/id6444595677)(아이폰)<br>
-21.07.30 ~ 21.12.28
+세벡스와 로잉머신의 블루투스의 센서 데이터를 수집하여 시각화하는 <a herf="https://apps.apple.com/us/app/topfit/id6444595677">[어플리케이션 외주]</a><br>
+21.07.30 ~ 21.12.28<br><br>
 
 MES 시스템 중 웹에서 인식 가능한 바코드 리더기, 프린터기 모듈 구현, iFrame을 이용한 크롬의 탭과 같은 멀티 페이지 구현<br>
-21.06.22 ~ 21.06.23
+21.06.22 ~ 21.06.23<br><br>
 
-족민의 달배(음식 역경매 서비스 플랫폼) 서비스 개발 [[[메인 화면](https://moon.udon.party/)], [[가게 화면](https://restaurant-moon.udon.party/)], [[관리자]](https://admin-moon.udon.party/)]<br>
-2022-01-01 ~ 2022-12-31
+족민의 달배(음식 역경매 서비스 플랫폼) 서비스 개발 <br>
+2022-01-01 ~ 2022-12-31<br><br>
 
 <details>
 <summary>프로젝트 소개 및 결과</summary>
@@ -176,19 +177,22 @@ MES 시스템 중 웹에서 인식 가능한 바코드 리더기, 프린터기 �
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hYNCinvIyqk?si=r6R7jd6GGM0DncQx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </details>
-차량 부착형태의 불법 주정차 단속 소프트웨어 개발<br>
-2022.01.10 ~ 2022.05.31
 
-외주 레벤그리다 어플리케이션 외주 [(아이폰 개발)](https://blog.naver.com/PostView.naver?blogId=lebengrida&logNo=222620909582&parentCategoryNo=&categoryNo=&viewDate=&isShowPopularPosts=false&from=postList)<br>
-20.10.16 ~ 21.01.05	
+차량 부착형태의 불법 주정차 단속 소프트웨어 개발<br>
+2022.01.10 ~ 2022.05.31<br><br>
+
+외주 레벤그리다 어플리케이션 외주 <a href="https://blog.naver.com/PostView.naver?blogId=lebengrida&logNo=222620909582&parentCategoryNo=&categoryNo=&viewDate=&isShowPopularPosts=false&from=postList">(아이폰 개발)</a><br>
+20.10.16 ~ 21.01.05	<br><br>
 
 [누리아이엔에스](http://directfyou.com/) 페이지 외주, 서브 도메인, 사용자 페이지 UI 변경 및 고객 방문 카운팅 프로그램 제작. 유지보수 기간 포함.<br>
-20.08.12 ~ 21.06.04
+20.08.12 ~ 21.06.04<br><br>
 
 Mono(C#)을 이용하여 의학 장비 UI 및 애니메이션 최적화 작업 및 고도화<br>
-20.03.12 ~ 20.03.20
+20.03.12 ~ 20.03.20<br><br>
 
 </details>
+
+<hr>
 
 <details>
 <summary>Honors & Awards & Certificate</summary>
@@ -196,14 +200,22 @@ Mono(C#)을 이용하여 의학 장비 UI 및 애니메이션 최적화 작업 �
 <a href="/assets/paper/2023_09_초해상도_및_기반의_효율적인_가상_데스크톱_인프라_설계.pdf">
 초해상도 및 기반의 효율적인 가상 데스크톱 인프라 설계
 </a><br>차주형,박현준, 임미선, 곽배섭, 권태현, 배성준, 우영운.(2023).한국정보통신학회 인공지능 및 응용 워크숍<br>
-[2023 인공지능 및 응용 워크숍 우수논문](https://kiice.org/116)<br><br>
+<a href="https://kiice.org/116">
+[2023 인공지능 및 응용 워크숍 우수논문]
+</a><br><br>
 
-[딥러닝의 기초](https://courses.nvidia.com/certificates/f7ac9a6f1b8a45568a4b8ed2ff09adba/), [CUDA C/C++ 를 활용한 가속화 컴퓨팅 기초](https://courses.nvidia.com/certificates/cf714047f3ea48a0923f711464148e63/) <br>
+<a href="https://courses.nvidia.com/certificates/f7ac9a6f1b8a45568a4b8ed2ff09adba/">
+딥러닝의 기초
+</a>, <a href="https://courses.nvidia.com/certificates/cf714047f3ea48a0923f711464148e63/">
+CUDA C/C++ 를 활용한 가속화 컴퓨팅 기초
+</a><br>
 NVIDIA DLI Certificate <br>
 22.06.22 ~ 22.06.23 <br><br>
 
 주제 : 노인 낙상 방지 침대 / 어플리케이션 <br>
-[K 해커톤 7회 장려(소프트웨어교육혁신센터 이사장상)](http://swkorea.org/%ea%b3%b5%ec%a7%80%ec%82%ac%ed%95%ad/?nType=UFFscUh5dURaU3p3Qi9SWHlzM3l6UEVPellyK3o5Q3ZNcDFOdTg4SlR4L29HMGlGbXdzRytkWFA0UFdEbW1ibXZZSlc5Z2xJeGVJVm1pZWVvLzRib3lhNDRLR3NBdzhYRlB3anNWYThpRzJpQUhxR282Q3kzMTJJbUhEa1JldUw=) <br>
+<a href="http://swkorea.org/%ea%b3%b5%ec%a7%80%ec%82%ac%ed%95%ad/?nType=UFFscUh5dURaU3p3Qi9SWHlzM3l6UEVPellyK3o5Q3ZNcDFOdTg4SlR4L29HMGlGbXdzRytkWFA0UFdEbW1ibXZZSlc5Z2xJeGVJVm1pZWVvLzRib3lhNDRLR3NBdzhYRlB3anNWYThpRzJpQUhxR282Q3kzMTJJbUhEa1JldUw=">
+K 해커톤 7회 장려(소프트웨어교육혁신센터 이사장상)
+</a><br>
 19.07.23 ~ 19.11.15<br><br>
 
 
