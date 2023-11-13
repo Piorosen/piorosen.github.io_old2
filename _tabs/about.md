@@ -25,7 +25,7 @@ ETRI 하계 연구 연수생 인턴 [ETRI 권용인 박사님]
 
 <a href="/assets/paper/2023_07_이기종_멀티코어_CPU에서_프로파일_기반_딥_러닝_연산_최적화_기법.pdf">
 이기종 멀티코어 CPU에서 프로파일 기반 딥 러닝 연산 최적화 기법
-</a><br>차주형, 권용인, 이제민.(2023). 전자공학회논문지
+</a><br>차주형, 권용인, 이제민.(2023). 전자공학회논문지<br>
 
 [아쿠아포닉스 환경에서의 작물 면적 데이터 AI 분석](/assets/paper/2023_05_아쿠아포닉스 환경에서의 작물 면적 데이터 AI 분석.pdf)<br>
 최은영, 이현섭, 차주형, 이임건.(2023). 문화기술의 융합
@@ -101,38 +101,43 @@ Joo Hyoung Cha, Dong Sung Kang, Moo Sang Song, Tae Hyeon Kweon, Young Woon Woo.(
 
 스마트 엣지 디바이스 SW 개발 플랫폼 개발 <br>
 한국전자통신연구원 / 과학기술정보통신부 <br>
-2023.01.01~2023.02.28 <br>
+2023.01.01~2023.02.28 <br><br>
 
 인공지능 시스템을 위한 뉴로모픽 컴퓨팅 SW 플랫폼 기술 개발<br>
 한국전자통신연구원 / 과학기술정보통신부 <br>
-2022.07.01~2022.08.31 <br>
+2022.07.01~2022.08.31 <br><br>
 
 핀 불량 검사를 위한 인공지능 기반의 자동 판정 알고리즘 개발<br>
-22.04.01 ~ 6.30, 09.01 ~ 22.10.31(=공백기 : ETRI 인턴)
+22.04.01 ~ 6.30, 09.01 ~ 22.10.31(=공백기 : ETRI 인턴)<br><br>
 
 크레인 카메라 영상을 이용한 야드장 내 작업자 안전 위치 모니터링<br>
 과학기술정보통신부 <br>
-22.01.01 ~ 22.02.28	<br>
+22.01.01 ~ 22.02.28	<br><br>
 
 빅데이터 영상분석기능을 탑재한 능동형 영상 촬영 및 서비스 시스템<br>
 과학기술정보통신부<br>
-19.07.01 ~ 20.02.29	
+19.07.01 ~ 20.02.29	<br><br>
 
 Development of loading optimization and ship operation safety support service for vehicle carriers<br>
 과학기술정보통신부 정보통신산업진흥원<br>
-19.02.01 ~ 19.10.31
+19.02.01 ~ 19.10.31<br><br>
 
 </details>
 
-
-
 # Outsourcing
+
+유림아이엔에스 회사와 동일한 서버 구축 요청([주식회사 비성파트너스](http://oneshot114.com/))
+23.10.20 ~ 23.11.11
 
 고정형태의 지능형 불법 주정차 단속 소프트웨어 개발<br>
 2023.01.01 ~ 2023.06.30
 
 세벡스와 로잉머신의 블루투스의 센서 데이터를 수집하여 시각화하는 [[어플리케이션 외주]](https://apps.apple.com/us/app/topfit/id6444595677)(아이폰)<br>
 21.07.30 ~ 21.12.28
+<details>
+<summary>프로젝트 소개 및 결과</summary>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VbWOYMZW-EI?si=bjt9umLbFQQEAaHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</details>
 
 MES 시스템 중 웹에서 인식 가능한 바코드 리더기, 프린터기 모듈 구현, iFrame을 이용한 크롬의 탭과 같은 멀티 페이지 구현<br>
 21.06.22 ~ 21.06.23
@@ -142,6 +147,12 @@ MES 시스템 중 웹에서 인식 가능한 바코드 리더기, 프린터기 �
 
 차량 부착형태의 불법 주정차 단속 소프트웨어 개발<br>
 2022.01.10 ~ 2022.05.31
+<details>
+<summary>프로젝트 소개 및 결과</summary>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eABm7ihe1UU?si=3yLIZfeseT6OePFy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hYNCinvIyqk?si=r6R7jd6GGM0DncQx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</details>
 
 외주 레벤그리다 어플리케이션 외주 [(아이폰 개발)](https://blog.naver.com/PostView.naver?blogId=lebengrida&logNo=222620909582&parentCategoryNo=&categoryNo=&viewDate=&isShowPopularPosts=false&from=postList)<br>
 20.10.16 ~ 21.01.05	
@@ -155,4 +166,4 @@ Mono(C#)을 이용하여 의학 장비 UI 및 애니메이션 최적화 작업 �
 
 # 테스트 영상
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Mj5qULjsSYE?si=xXWfXsq8pozaq8NY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
