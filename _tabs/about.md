@@ -4,7 +4,8 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-# Carrers
+<details>
+<summary>Carreres</summary>
 
 (주)은재팜 [스타트업]
 2023년 07월 01일 ~ 재직 중
@@ -18,10 +19,12 @@ ETRI 동계 연구 연수생 인턴 [ETRI 권용인 박사님]
 ETRI 하계 연구 연수생 인턴 [ETRI 권용인 박사님]
 2022년 07월 01일 ~ 2022년 08월 31일
 
-## Publications
+</details>
+
+<hr>
 
 <details>
-<h2><summary>Journal</summary></h2>
+<summary>Journal</summary>
 
 <a href="/assets/paper/2023_07_이기종_멀티코어_CPU에서_프로파일_기반_딥_러닝_연산_최적화_기법.pdf">
 이기종 멀티코어 CPU에서 프로파일 기반 딥 러닝 연산 최적화 기법
@@ -45,7 +48,7 @@ ETRI 하계 연구 연수생 인턴 [ETRI 권용인 박사님]
 </details>
 
 <details>
-<h2><summary>Conference</summary></h2>
+<summary>Conference</summary>
 
 <a href="/assets/paper/2023_10_Deep_Learning_based_Motion_Recognition_Using_Sound_Event.pdf">
 소리 정보를 이용한 딥 러닝 기반의 동작 인식
@@ -101,20 +104,21 @@ An Effective Method for Generating Color Images Using Genetic Algorithm
 
 </details>
 
-# Patents
+<hr>
 
 <details>
-<summary>Project</summary>
+<summary>Patents</summary>
 
-[영상 내 자막 키워드 추출 및 순위 산정 시스템 및 방법](https://doi.org/10.8080/1020190165757)<br>
-21.06.22
+<a href="https://doi.org/10.8080/1020190165757">
+영상 내 자막 키워드 추출 및 순위 산정 시스템 및 방법
+</a><br>21.06.22<br><br>
 
 </details>
 
-# Projects
+<hr>
 
 <details>
-<summary>Project</summary>
+<summary>Projects</summary>
 
 스마트 엣지 디바이스 SW 개발 플랫폼 개발 <br>
 한국전자통신연구원 / 과학기술정보통신부 <br>
@@ -141,9 +145,12 @@ Development of loading optimization and ship operation safety support service fo
 
 </details>
 
-# Outsourcing
+<hr>
 
-유림아이엔에스 회사와 동일한 서버 구축 요청([주식회사 비성파트너스](http://oneshot114.com/))
+<details>
+<summary>Outsourcing</summary>
+
+유림아이엔에스 회사와 동일한 서버 구축 요청([주식회사 비성파트너스](http://oneshot114.com/))<br>
 23.10.20 ~ 23.11.11
 
 고정형태의 지능형 불법 주정차 단속 소프트웨어 개발<br>
@@ -180,3 +187,4 @@ MES 시스템 중 웹에서 인식 가능한 바코드 리더기, 프린터기 �
 Mono(C#)을 이용하여 의학 장비 UI 및 애니메이션 최적화 작업 및 고도화<br>
 20.03.12 ~ 20.03.20
 
+</details>
