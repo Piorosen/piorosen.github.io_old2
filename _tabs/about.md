@@ -21,66 +21,83 @@ ETRI 하계 연구 연수생 인턴 [ETRI 권용인 박사님]
 # Publications
 
 <details>
-<summary>Journal</summary>
+<summary><h2>Journal</h2></summary>
 
 <a href="/assets/paper/2023_07_이기종_멀티코어_CPU에서_프로파일_기반_딥_러닝_연산_최적화_기법.pdf">
 이기종 멀티코어 CPU에서 프로파일 기반 딥 러닝 연산 최적화 기법
-</a><br>차주형, 권용인, 이제민.(2023). 전자공학회논문지<br>
+</a><br>차주형, 권용인, 이제민.(2023). 전자공학회논문지<br><br>
 
-[아쿠아포닉스 환경에서의 작물 면적 데이터 AI 분석](/assets/paper/2023_05_아쿠아포닉스 환경에서의 작물 면적 데이터 AI 분석.pdf)<br>
-최은영, 이현섭, 차주형, 이임건.(2023). 문화기술의 융합
+<a href="/assets/paper/2023_05_아쿠아포닉스 환경에서의 작물 면적 데이터 AI 분석.pdf">
+아쿠아포닉스 환경에서의 작물 면적 데이터 AI 분석
+</a><br>최은영, 이현섭, 차주형, 이임건.(2023). 문화기술의 융합<br><br>
 
-[파이프 핸들링과 트리핑 공정에 사용되는 이동형 시추 장비들을 위한 충돌 방지 시스템용 시뮬레이터 설계](/assets/paper/2020_06_파이프 핸들링과 트리핑 공정에 사용되는 이동형 시추 장비들을 위한 충돌 방지 시스템용 시뮬레이터 설계.pdf)<br>
-이재용, 구남국, 차주형, 권기연.(2020).파이프 핸들링과 트리핑 공정에 사용되는 이동형 시추 장비들을 위한 충돌 방지 시스템용 시뮬레이터 설계.한국CDE학회 논문집,25(2),182-191.
+<a href="/assets/paper/2020_06_파이프 핸들링과 트리핑 공정에 사용되는 이동형 시추 장비들을 위한 충돌 방지 시스템용 시뮬레이터 설계.pdf">
+파이프 핸들링과 트리핑 공정에 사용되는 이동형 시추 장비들을 위한 충돌 방지 시스템용 시뮬레이터 설계
+</a><br>이재용, 구남국, 차주형, 권기연.(2020).한국CDE학회 논문집,25(2),182-191.<br><br>
 
-[효과적인 차량 선적을 위한 공간 배치의 최적화 기법](/assets/paper/2020_02_효과적인 차량 선적을 위한 공간 배치의 최적화 기법.pdf)<br>
-차주형, 최진석, 배유수, 우영운.(2020).효과적인 차량 선적을 위한 공간 배치의 최적화 기법.한국정보통신학회논문지,24(2),186-191.
+<a href="/assets/paper/2020_02_효과적인 차량 선적을 위한 공간 배치의 최적화 기법.pdf">
+효과적인 차량 선적을 위한 공간 배치의 최적화 기법
+</a><br>차주형, 최진석, 배유수, 우영운.(2020).한국정보통신학회논문지,24(2),186-191.<br><br>
 
-[유전자 알고리즘을 이용한 효과적인 영상 생성 기법](/assets/paper/2019_08_유전자 알고리즘을 이용한 효과적인 영상 생성 기법.pdf)<br>
-차주형, 우영운, 이임건.(2019).유전자 알고리즘을 이용한 효과적인 영상 생성 기법.한국정보통신학회논문지,23(8),896-902.
+<a href="/assets/paper/2019_08_유전자 알고리즘을 이용한 효과적인 영상 생성 기법.pdf">
+</a><br>차주형, 우영운, 이임건.(2019),23(8),896-902.<br><br>
 
 </details>
 
 <details>
-<summary>Conference</summary>
+<summary><h2>Conference</h2></summary>
 
-[소리 정보를 이용한 딥 러닝 기반의 동작 인식](/assets/paper/2023_10_Deep_Learning_based_Motion_Recognition_Using_Sound_Event.pdf)<br>
-차주형,배성준,박지은,이준혁,장시웅,이현섭.(2023).한국정보통신학회 54회 추계종합학술대회
+<a href="/assets/paper/2023_10_Deep_Learning_based_Motion_Recognition_Using_Sound_Event.pdf">
+소리 정보를 이용한 딥 러닝 기반의 동작 인식
+</a><br>차주형,배성준,박지은,이준혁,장시웅,이현섭.(2023).한국정보통신학회 54회 추계종합학술대회<br><br>
 
-[영상 기반의 실시간 유량 감지를 통한 아쿠아포닉스 환경 유지 시스템 설계](/assets/paper/2023_10_Aquaponics_through_real-time_flow_detection_Environmental_management_system_design.pdf)<br>
-이현섭,차주형,배성준,박지은,장시웅,김진덕.(2023).한국정보통신학회 54회 추계종합학술대회
+<a href="/assets/paper/2023_10_Aquaponics_through_real-time_flow_detection_Environmental_management_system_design.pdf">
+영상 기반의 실시간 유량 감지를 통한 아쿠아포닉스 환경 유지 시스템 설계
+</a><br>이현섭,차주형,배성준,박지은,장시웅,김진덕.(2023).한국정보통신학회 54회 추계종합학술대회<br><br>
 
-[협소 해역에서 자율운항선박의 충돌 감지에 대한 기초 연구](/assets/paper/2023_05_협소 해역에서 자율운항선박의 충돌 감지에 대한 기초 연구.pdf)<br>김경훈, 차주형, 이재용.(2023).한국해양과학기술협의회 공동학술대회
+<a href="/assets/paper/2023_05_협소 해역에서 자율운항선박의 충돌 감지에 대한 기초 연구.pdf">
+협소 해역에서 자율운항선박의 충돌 감지에 대한 기초 연구
+</a><br>김경훈, 차주형, 이재용.(2023).한국해양과학기술협의회 공동학술대회<br><br>
 
-[초해상도 및 기반의 효율적인 가상 데스크톱 인프라 설계](/assets/paper/2023_09_초해상도_및_기반의_효율적인_가상_데스크톱_인프라_설계.pdf)<br>
-차주형,박현준, 임미선, 곽배섭, 권태현, 배성준, 우영운.(2023).한국정보통신학회 인공지능 및 응용 워크숍(우수논문상 >,< )
+<a href="/assets/paper/2023_09_초해상도_및_기반의_효율적인_가상_데스크톱_인프라_설계.pdf">
+초해상도 및 기반의 효율적인 가상 데스크톱 인프라 설계
+</a><br>차주형,박현준, 임미선, 곽배섭, 권태현, 배성준, 우영운.(2023).한국정보통신학회 인공지능 및 응용 워크숍(우수논문상 >,< )<br><br>
 
-[이기종 컴퓨팅과 복수 신경망 추론 환경에서 높은 처리량을 위한 스케줄러 관한 연구](/assets/paper/2023_02_이기종 컴퓨팅과 복수 신경망 추론 환경에서 높은 처리량을 위한 스케줄러 관한 연구.pdf)<br>차주형, 박제만, 권용인.(2023).대한통신학회 동계학술대회
+<a href="/assets/paper/2023_02_이기종 컴퓨팅과 복수 신경망 추론 환경에서 높은 처리량을 위한 스케줄러 관한 연구.pdf">
+이기종 컴퓨팅과 복수 신경망 추론 환경에서 높은 처리량을 위한 스케줄러 관한 연구
+</a><br>차주형, 박제만, 권용인.(2023).대한통신학회 동계학술대회
 
-[단일 ISA 이기종 멀티 코어 구조를 위한 프로파일 기반 ArmCL 최적 스케줄 탐색](/assets/paper/2022_11_단일 ISA 이기종 멀티 코어 구조를 위한 프로파일 기반 ArmCL 최적 스케줄 탐색.pdf)<br>
-차주형, 이주빈, 권용인.(2022).단일 ISA 이기종 멀티 코어 구조를 위한 프로파일 기반 ArmCL 최적 스케줄 탐색.대한전자공학회 추계학술대회 논문집,300
+<a href="/assets/paper/2022_11_단일 ISA 이기종 멀티 코어 구조를 위한 프로파일 기반 ArmCL 최적 스케줄 탐색.pdf">
+단일 ISA 이기종 멀티 코어 구조를 위한 프로파일 기반 ArmCL 최적 스케줄 탐색
+</a><br>차주형, 이주빈, 권용인.(2022).대한전자공학회 추계학술대회 논문집,300<br><br>
 
-[해양시추용 충돌방지시스템의 시각화에 관한 연구](/assets/paper/2022_10_해양시추용 충돌방지시스템의 시각화에 관한 연구.pdf)<br>
-차주형, 이재용.(2022).해양시추용 충돌방지시스템의 시각화에 관한 연구.한국해양공학회 추계학술대회 논문집,190.
+<a href="/assets/paper/2022_10_해양시추용 충돌방지시스템의 시각화에 관한 연구.pdf">
+해양시추용 충돌방지시스템의 시각화에 관한 연구
+</a><br>차주형, 이재용.(2022).한국해양공학회 추계학술대회 논문집,190.<br><br>
 
-[인공지능 교육을 위한 멀티 플랫폼 오목 프로그램 설계](/assets/paper/2021_10_인공지능 교육을 위한 멀티 플랫폼 오목 프로그램 설계.pdf)<br>
-차주형, 우영운.(2021).인공지능 교육을 위한 멀티 플랫폼 오목 프로그램 설계.한국정보통신학회 종합학술대회 논문집,25(2),530-532.
+<a href="/assets/paper/2021_10_인공지능 교육을 위한 멀티 플랫폼 오목 프로그램 설계.pdf">
+인공지능 교육을 위한 멀티 플랫폼 오목 프로그램 설계
+</a><br>차주형, 우영운.(2021).한국정보통신학회 종합학술대회 논문집,25(2),530-532.<br><br>
 
-[딥러닝을 활용한 위험지역 예측기법](/assets/paper/2020_10_딥러닝을 활용한 위험 지역 예측 기법.pdf)<br>
-차주형, 김성희, 우영운.(2020).딥러닝을 활용한 위험 지역 예측 기법.한국정보통신학회 종합학술대회 논문집,24(2),308-310.
+<a href="/assets/paper/2020_10_딥러닝을 활용한 위험 지역 예측 기법.pdf">
+딥러닝을 활용한 위험지역 예측기법
+</a><br>차주형, 김성희, 우영운.(2020).한국정보통신학회 종합학술대회 논문집,24(2),308-310.<br><br>
 
-[유전자 알고리즘을 활용한 차량 선적 최적화 기법](/assets/paper/2019_10_유전자 알고리즘을 활용한 차량 선적 최적화 기법.pdf)<br>
-차주형, 우영운.(2019).유전자 알고리즘을 활용한 차량 선적 최적화 기법.한국정보통신학회 종합학술대회 논문집,23(2),77-80.
+<a href="/assets/paper/2019_10_유전자 알고리즘을 활용한 차량 선적 최적화 기법.pdf">
+유전자 알고리즘을 활용한 차량 선적 최적화 기법
+</a><br>차주형, 우영운.(2019).한국정보통신학회 종합학술대회 논문집,23(2),77-80.<br><br>
 
-[사용자 검색 효율 향상을 위한 빅데이터 처리 기반 영상 분석 시스템 설계](/assets/paper/2019_10_사용자 검색 효율 향상을 위한 빅데이터 처리 기반 영상 분석 시스템 설계.pdf)<br>
-이현섭, 김준호, 차주형, 나보아, 김진덕.(2019).사용자 검색 효율 향상을 위한 빅데이터 처리 기반 영상 분석 시스템 설계.한국정보통신학회 종합학술대회 논문집,23(2),536-537.
+<a href="/assets/paper/2019_10_사용자 검색 효율 향상을 위한 빅데이터 처리 기반 영상 분석 시스템 설계.pdf">
+사용자 검색 효율 향상을 위한 빅데이터 처리 기반 영상 분석 시스템 설계
+</a><br>이현섭, 김준호, 차주형, 나보아, 김진덕.(2019).한국정보통신학회 종합학술대회 논문집,23(2),536-537.<br><br>
 
-[An Effective Method for Generating Color Images Using Genetic Algorithm](/assets/paper/2019_06_An Effective Method for Generating Color Images Using Genetic Algorithm.pdf)<br>
-Joo Hyoung Cha, Young Woon Woo.(2019).An Effective Method for Generating Color Images Using Genetic Algorithm.INTERNATIONAL CONFERENCE ON FUTURE INFORMATION & COMMUNICATION ENGINEERING,11(1),355-358.
+<a href="/assets/paper/2019_06_An Effective Method for Generating Color Images Using Genetic Algorithm.pdf">
+An Effective Method for Generating Color Images Using Genetic Algorithm
+</a><br>Joo Hyoung Cha, Young Woon Woo.(2019).INTERNATIONAL CONFERENCE ON FUTURE INFORMATION & COMMUNICATION ENGINEERING,11(1),355-358.<br><br>
 
-[유전자 알고리즘을 이용한 흑백 이미지 생성 기법
-](/assets/paper/2019_05_유전자_알고리즘을_이용한_흑백_이미지_생성기법.pdf)<br>
-Joo Hyoung Cha, Dong Sung Kang, Moo Sang Song, Tae Hyeon Kweon, Young Woon Woo.(2019).Gray Image Generation Methods Using Genetic Algorithm.한국정보통신학회 2019년도 춘계학술대회 2019 May 23, pp.265-267
+<a href="/assets/paper/2019_05_유전자_알고리즘을_이용한_흑백_이미지_생성기법.pdf">
+유전자 알고리즘을 이용한 흑백 이미지 생성 기법
+</a><br>차주형, 강동성, 송무상, 권태현, 우영운.(2019).한국정보통신학회 2019년도 춘계학술대회 2019 May 23,265-267<br><br>
 
 </details>
 
@@ -132,12 +149,12 @@ Development of loading optimization and ship operation safety support service fo
 고정형태의 지능형 불법 주정차 단속 소프트웨어 개발<br>
 2023.01.01 ~ 2023.06.30
 
-세벡스와 로잉머신의 블루투스의 센서 데이터를 수집하여 시각화하는 [[어플리케이션 외주]](https://apps.apple.com/us/app/topfit/id6444595677)(아이폰)<br>
-21.07.30 ~ 21.12.28
 <details>
 <summary>프로젝트 소개 및 결과</summary>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VbWOYMZW-EI?si=bjt9umLbFQQEAaHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </details>
+세벡스와 로잉머신의 블루투스의 센서 데이터를 수집하여 시각화하는 [[어플리케이션 외주]](https://apps.apple.com/us/app/topfit/id6444595677)(아이폰)<br>
+21.07.30 ~ 21.12.28
 
 MES 시스템 중 웹에서 인식 가능한 바코드 리더기, 프린터기 모듈 구현, iFrame을 이용한 크롬의 탭과 같은 멀티 페이지 구현<br>
 21.06.22 ~ 21.06.23
@@ -145,14 +162,14 @@ MES 시스템 중 웹에서 인식 가능한 바코드 리더기, 프린터기 �
 족민의 달배(음식 역경매 서비스 플랫폼) 서비스 개발 [[[메인 화면](https://moon.udon.party/)], [[가게 화면](https://restaurant-moon.udon.party/)], [[관리자]](https://admin-moon.udon.party/)]<br>
 2022-01-01 ~ 2022-12-31
 
-차량 부착형태의 불법 주정차 단속 소프트웨어 개발<br>
-2022.01.10 ~ 2022.05.31
 <details>
 <summary>프로젝트 소개 및 결과</summary>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/eABm7ihe1UU?si=3yLIZfeseT6OePFy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hYNCinvIyqk?si=r6R7jd6GGM0DncQx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </details>
+차량 부착형태의 불법 주정차 단속 소프트웨어 개발<br>
+2022.01.10 ~ 2022.05.31
 
 외주 레벤그리다 어플리케이션 외주 [(아이폰 개발)](https://blog.naver.com/PostView.naver?blogId=lebengrida&logNo=222620909582&parentCategoryNo=&categoryNo=&viewDate=&isShowPopularPosts=false&from=postList)<br>
 20.10.16 ~ 21.01.05	
