@@ -108,6 +108,24 @@ An Effective Method for Generating Color Images Using Genetic Algorithm
 
 <hr>
 
+
+<details>
+<summary>Commission</summary>
+<a href="/assets/commission/C-2022-035263.pdf">
+암 컴퓨트라이브러리 스케쥴러(C-2022-035263)
+</a><br>22.08.31<br><br>
+
+<a href="/assets/commission/C-2022-035265.pdf">
+암 컴퓨트 라이브러리 실행기
+</a><br>22.08.31<br><br>
+
+<a href="/assets/commission/C-2022-035267.pdf">
+파라미터 실행 가능한 암 컴퓨트 라이브러리
+</a><br>22.08.31<br><br>
+
+
+</summary>
+
 <details>
 <summary>Patents</summary>
 
