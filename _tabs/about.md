@@ -144,8 +144,6 @@ An Effective Method for Generating Color Images Using Genetic Algorithm
 </a><br>23.11.17<br><br>
 
 
-</summary>
-
 <details>
 <summary>Patents</summary>
 
@@ -237,7 +235,7 @@ Mono(C#)을 이용하여 의학 장비 UI 및 애니메이션 최적화 작업 �
 
 2023년 동의대학교 통합성과 경진대회 장려 수상 <a href="/assets/img/post/2023-11-16-02.jpg">[1]</a> <a href="/assets/img/post/2023-11-16-01.jpg">[2]</a>
 <br>
-1.    11. 16
+2023.11.16
 <br><br>
 
 <a href="/assets/img/resources/Engineer Information Processing.pdf">
