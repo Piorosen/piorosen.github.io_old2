@@ -143,6 +143,7 @@ An Effective Method for Generating Color Images Using Genetic Algorithm
 시뮬레이터용 HMI(사용자와 기계 상호작용) 도구
 </a><br>23.11.17<br><br>
 
+</details>
 
 <details>
 <summary>Patents</summary>
