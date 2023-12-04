@@ -148,8 +148,12 @@ An Effective Method for Generating Color Images Using Genetic Algorithm
 <summary>Patents</summary>
 
 <a href="https://doi.org/10.8080/1020190165757">
-영상 내 자막 키워드 추출 및 순위 산정 시스템 및 방법
+[등록] 영상 내 자막 키워드 추출 및 순위 산정 시스템 및 방법
 </a><br>21.06.22<br><br>
+
+
+[출원] 클라우드 노트북 (10-2022-0125883)
+<br>22.10.01<br><br>
 
 </details>
 
@@ -241,7 +245,7 @@ Mono(C#)을 이용하여 의학 장비 UI 및 애니메이션 최적화 작업 �
 <a href="/assets/img/resources/Engineer Information Processing.pdf">
 국가 기술 자격증, 정보 처리 기사 취득
 </a><br>
-2023. 11. 15
+1.    11. 15
 <br><br>
 
 <a href="/assets/paper/2023_09_초해상도_및_기반의_효율적인_가상_데스크톱_인프라_설계.pdf">
