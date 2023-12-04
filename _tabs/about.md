@@ -123,6 +123,26 @@ An Effective Method for Generating Color Images Using Genetic Algorithm
 파라미터 실행 가능한 암 컴퓨트 라이브러리
 </a><br>22.08.31<br><br>
 
+<a href="/assets/commission/C-2023-052322.pdf">
+충돌방지 시스템용 시각화 SW(소프트웨어)
+</a><br>23.11.17<br><br>
+
+<a href="/assets/commission/C-2023-052323.pdf">
+충돌 기록 재생 프로그램
+</a><br>23.11.17<br><br>
+
+<a href="/assets/commission/C-2023-052324.pdf">
+충돌 검사 모듈
+</a><br>23.11.17<br><br>
+
+<a href="/assets/commission/C-2023-052325.pdf">
+충돌방지 검증용 데이터 생성 모듈
+</a><br>23.11.17<br><br>
+
+<a href="/assets/commission/C-2023-052326.pdf">
+시뮬레이터용 HMI(사용자와 기계 상호작용) 도구
+</a><br>23.11.17<br><br>
+
 
 </summary>
 
@@ -217,7 +237,7 @@ Mono(C#)을 이용하여 의학 장비 UI 및 애니메이션 최적화 작업 �
 
 2023년 동의대학교 통합성과 경진대회 장려 수상 <a href="/assets/img/post/2023-11-16-02.jpg">[1]</a> <a href="/assets/img/post/2023-11-16-01.jpg">[2]</a>
 <br>
-2023. 11. 16
+1.    11. 16
 <br><br>
 
 <a href="/assets/img/resources/Engineer Information Processing.pdf">
