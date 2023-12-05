@@ -225,7 +225,7 @@ MES 시스템 중 웹에서 인식 가능한 바코드 리더기, 프린터기 �
 외주 레벤그리다 어플리케이션 외주 <a href="https://blog.naver.com/PostView.naver?blogId=lebengrida&logNo=222620909582&parentCategoryNo=&categoryNo=&viewDate=&isShowPopularPosts=false&from=postList">(아이폰 개발)</a><br>
 20.10.16 ~ 21.01.05	<br><br>
 
-[누리아이엔에스](http://directfyou.com/) 페이지 외주, 서브 도메인, 사용자 페이지 UI 변경 및 고객 방문 카운팅 프로그램 제작. 유지보수 기간 포함.<br>
+<a href="http://directfyou.com/">[누리아이엔에스]</a> 페이지 외주, 서브 도메인, 사용자 페이지 UI 변경 및 고객 방문 카운팅 프로그램 제작. 유지보수 기간 포함.<br>
 20.08.12 ~ 21.06.04<br><br>
 
 Mono(C#)을 이용하여 의학 장비 UI 및 애니메이션 최적화 작업 및 고도화<br>
@@ -246,7 +246,7 @@ Mono(C#)을 이용하여 의학 장비 UI 및 애니메이션 최적화 작업 �
 <a href="/assets/img/resources/Engineer Information Processing.pdf">
 국가 기술 자격증, 정보 처리 기사 취득
 </a><br>
-1.    11. 15
+2023.11. 15
 <br><br>
 
 <a href="/assets/paper/2023_09_초해상도_및_기반의_효율적인_가상_데스크톱_인프라_설계.pdf">
@@ -263,6 +263,11 @@ CUDA C/C++ 를 활용한 가속화 컴퓨팅 기초
 </a><br>
 NVIDIA DLI Certificate <br>
 22.06.22 ~ 22.06.23 <br><br>
+
+2021년 동의대학교 통합성과 경진대회 우수 수상 <a href="/assets/img/post/2021-10-06-01.jpg">[1]</a>
+<br>
+2023.11.16
+<br><br>
 
 주제 : 노인 낙상 방지 침대 / 어플리케이션 <br>
 <a href="http://swkorea.org/%ea%b3%b5%ec%a7%80%ec%82%ac%ed%95%ad/?nType=UFFscUh5dURaU3p3Qi9SWHlzM3l6UEVPellyK3o5Q3ZNcDFOdTg4SlR4L29HMGlGbXdzRytkWFA0UFdEbW1ibXZZSlc5Z2xJeGVJVm1pZWVvLzRib3lhNDRLR3NBdzhYRlB3anNWYThpRzJpQUhxR282Q3kzMTJJbUhEa1JldUw=">
