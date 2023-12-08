@@ -256,6 +256,11 @@ Mono(C#)을 이용하여 의학 장비 UI 및 애니메이션 최적화 작업 �
 [2023 인공지능 및 응용 워크숍 우수논문]
 </a><br><br>
 
+2023년 동의대학교 캡스톤 디자인 경진대회 특별상 수상 <a href="/assets/img/post/2023-12-06-01.jpg">[1]</a> <a href="/assets/img/post/2023-12-06-02.pdf">[2]</a>
+<br>
+2022.12.06
+<br><br>
+
 <a href="https://courses.nvidia.com/certificates/f7ac9a6f1b8a45568a4b8ed2ff09adba/">
 딥러닝의 기초
 </a>, <a href="https://courses.nvidia.com/certificates/cf714047f3ea48a0923f711464148e63/">
