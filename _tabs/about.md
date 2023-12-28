@@ -51,6 +51,9 @@ ETRI 하계 연구 연수생 인턴 [ETRI 권용인 박사님]<br>
 <details>
 <summary>Conference</summary>
 
+ACLTuner: A Profiling-Driven Fast Tuning to Optimized Deep Learning Inference<br>
+Yongin Kwon, Joo Hyoung Cha, Jubin Lee, Misun Yu, Jeman Park, Jemin Lee<br>ML for System at Neurips 2023 <br><br>
+
 <a href="/assets/paper/2023_10_Deep_Learning_based_Motion_Recognition_Using_Sound_Event.pdf">
 소리 정보를 이용한 딥 러닝 기반의 동작 인식
 </a><br>차주형,배성준,박지은,이준혁,장시웅,이현섭.(2023).한국정보통신학회 54회 추계종합학술대회<br><br>
