@@ -1,9 +1,9 @@
 ---
 layout: post
-title: PyGuard 파이썬의 보안 취약점 검사 논문
+title: PyGuard 파이썬의 보안 취약점 검사 논문 읽기
 author: piorosen
-categories: [Blogging, Develop]
-tags: [zotero, rsilio-sync,r-sync, paper]
+categories: [Paper, Review]
+tags: [security,paper,review,python,cpython,vulnerablilites]
 hide_title: false
 ---
 
