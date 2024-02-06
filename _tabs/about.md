@@ -51,8 +51,9 @@ ETRI 하계 연구 연수생 인턴 [ETRI 권용인 박사님]<br>
 <details>
 <summary>Conference</summary>
 
-자율운항선박을 위한 NMEA-0183 프로토콜 기반 데이터 수집 시스템의 구현<br>
-김경훈,차주형,이재용.(2024).대한통신학회 동계학술대회<br><br>
+<a href="/assets/paper/2024_02_Implementation_of_Data_System_Based_on_NMEA-0183_Protocol_for_Autonomous_ships.pdf">
+자율운항선박을 위한 NMEA-0183 프로토콜 기반 데이터 수집 시스템의 구현
+</a><br>김경훈,차주형,이재용.(2024).대한통신학회 동계학술대회<br><br>
 
 ACLTuner: A Profiling-Driven Fast Tuning to Optimized Deep Learning Inference<br>
 Yongin Kwon, Joo Hyoung Cha, Jubin Lee, Misun Yu, Jeman Park, Jemin Lee<br>ML for System at Neurips 2023 <br><br>
