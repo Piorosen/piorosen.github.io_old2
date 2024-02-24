@@ -2,7 +2,7 @@
 layout: post
 title: On-Premise 환경에서 Harbor와 ArgoCD 연동하기
 author: piorosen
-categories: [Paper, Develop]
+categories: [Blogging, Develop]
 tags: [harbor, argocd, yaml, bash, secret, kubernetes, k8s, infra, https, http, secure]
 hide_title: false
 ---
