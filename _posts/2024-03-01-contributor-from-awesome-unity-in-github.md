@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Awesome Unity 프로젝트에 기여에 성공하였다!
+title: Awesome Unity 프로젝트에 기여에 성공하였다
 author: piorosen
 categories: [Blogging, Develop]
 tags: [github, pull-request,unity,awesome-unity,contribute,git]
