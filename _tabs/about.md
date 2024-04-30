@@ -159,9 +159,9 @@ An Effective Method for Generating Color Images Using Genetic Algorithm
 [등록] 영상 내 자막 키워드 추출 및 순위 산정 시스템 및 방법
 </a><br>21.06.22<br><br>
 
-
+<a href="https://doi.org/10.8080/1020220125883">
 [출원] 클라우드 노트북 (10-2022-0125883)
-<br>22.10.01<br><br>
+</a><br>22.10.01<br><br>
 
 </details>
 
