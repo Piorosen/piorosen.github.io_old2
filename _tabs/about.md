@@ -105,7 +105,7 @@ Yongin Kwon, Joo Hyoung Cha, Jubin Lee, Misun Yu, Jeman Park, Jemin Lee<br>ML fo
 
 <a href="/assets/paper/2019_06_An Effective Method for Generating Color Images Using Genetic Algorithm.pdf">
 An Effective Method for Generating Color Images Using Genetic Algorithm
-</a><br>Joo Hyoung Cha, Young Woon Woo.(2019).INTERNATIONAL CONFERENCE ON FUTURE INFORMATION & COMMUNICATION ENGINEERING,11(1),355-358.<br><br>
+</a><br>JooHyoung Cha, Young Woon Woo.(2019).INTERNATIONAL CONFERENCE ON FUTURE INFORMATION & COMMUNICATION ENGINEERING,11(1),355-358.<br><br>
 
 <a href="/assets/paper/2019_05_유전자_알고리즘을_이용한_흑백_이미지_생성기법.pdf">
 유전자 알고리즘을 이용한 흑백 이미지 생성 기법
