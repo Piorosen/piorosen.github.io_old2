@@ -285,6 +285,12 @@ NVIDIA DLI Certificate <br>
 2019.10.06
 <br><br>
 
+<a href="/assets/img/resources/sw_coding_cerfication_level2.pdf">
+민간 기술 자격증, SW코딩자격 2급 취득
+</a><br>
+2019-08-30(만료 기한 없음)
+<br><br>
+
 주제 : 노인 낙상 방지 침대 / 어플리케이션 <br>
 <a href="http://swkorea.org/%ea%b3%b5%ec%a7%80%ec%82%ac%ed%95%ad/?nType=UFFscUh5dURaU3p3Qi9SWHlzM3l6UEVPellyK3o5Q3ZNcDFOdTg4SlR4L29HMGlGbXdzRytkWFA0UFdEbW1ibXZZSlc5Z2xJeGVJVm1pZWVvLzRib3lhNDRLR3NBdzhYRlB3anNWYThpRzJpQUhxR282Q3kzMTJJbUhEa1JldUw=">
 K 해커톤 7회 장려(소프트웨어교육혁신센터 이사장상)
