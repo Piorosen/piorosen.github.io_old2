@@ -249,6 +249,13 @@ Mono(C#)을 이용하여 의학 장비 UI 및 애니메이션 최적화 작업 �
 <details>
 <summary>Honors & Awards & Certificate</summary>
 
+<a href="/assets/img/resources/2024-06-05-toeic.png">
+Test of English for International Communication(TOEIC), Total 815
+</a><br>
+2024.05.26
+<br><br>
+
+
 2023년 동의대학교 통합성과 경진대회 장려 수상 <a href="/assets/img/post/2023-11-16-02.jpg">[1]</a> <a href="/assets/img/post/2023-11-16-01.jpg">[2]</a>
 <br>
 2023.11.16
@@ -257,7 +264,7 @@ Mono(C#)을 이용하여 의학 장비 UI 및 애니메이션 최적화 작업 �
 <a href="/assets/img/resources/Engineer Information Processing.pdf">
 국가 기술 자격증, 정보 처리 기사 취득
 </a><br>
-2023.11. 15
+2023.11.15
 <br><br>
 
 <a href="/assets/paper/2023_09_초해상도_및_기반의_효율적인_가상_데스크톱_인프라_설계.pdf">
