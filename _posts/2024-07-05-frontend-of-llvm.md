@@ -141,4 +141,4 @@ Class:               +---------------+
 
 그리고 가장 신기하였던 부분으로는 상속으로 인한 `vtable`이란 내용에서 이전에 읽은 `Optimized C++` 책에서 `가상 함수`는 매우 느리다 란 내용에서 왜 느린지, 어떻게 동작이 되는지에 대해서 컴파일러 레벨에서 공부 할 수 있어서 매우 좋은 기회가 되었다.
 
-![](/assets/img/post/2024-07-05-01.jpg)
+[![](/assets/img/post/2024-07-05-01.jpg)](https://www.udemy.com/certificate/UC-b8d5cd33-2c1a-4717-83b3-b0ef241bc2d2/)
