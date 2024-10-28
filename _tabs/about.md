@@ -213,7 +213,7 @@ Development of loading optimization and ship operation safety support service fo
 
 고정형태의 지능형 불법 주정차 단속 소프트웨어 개발<br>
 2023.01.01 ~ 2023.06.30<br>
-+ 2024년 축! 부산 강서구청에 납품 !축<br><br>
++ 2024년 축! 부산 강서구청에 납품 !축, + 부산 동래구청<br><br>
 
 <details>
 <summary>프로젝트 소개 및 결과</summary>
