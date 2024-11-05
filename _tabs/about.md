@@ -63,8 +63,9 @@ ETRI 하계 연구 연수생 인턴 [ETRI 권용인 박사님]<br>
 자율운항선박을 위한 NMEA-0183 프로토콜 기반 데이터 수집 시스템의 구현
 </a><br>김경훈,차주형,이재용.(2024).대한통신학회 동계학술대회<br><br>
 
-ACLTuner: A Profiling-Driven Fast Tuning to Optimized Deep Learning Inference<br>
-Yongin Kwon, Joo Hyoung Cha, Jubin Lee, Misun Yu, Jeman Park, Jemin Lee<br><a href="http://mlforsystems.org/neurips2023/accepted_papers.html">ML for System at Neurips 2023</a><br><br>
+<a href="https://neurips.cc/virtual/2023/84439">
+ACLTuner: A Profiling-Driven Fast Tuning to Optimized Deep Learning Inference
+</a><br>Yongin Kwon, Joo Hyoung Cha, Jubin Lee, Misun Yu, Jeman Park, Jemin Lee<br><a href="http://mlforsystems.org/neurips2023/accepted_papers.html">ML for System at Neurips 2023</a><br><br>
 
 <a href="/assets/paper/2023_10_Deep_Learning_based_Motion_Recognition_Using_Sound_Event.pdf">
 소리 정보를 이용한 딥 러닝 기반의 동작 인식
