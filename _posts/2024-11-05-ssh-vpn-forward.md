@@ -1,6 +1,6 @@
 ---
 layout: post
-title: SSH-VPN
+title: 외부에서 내부망으로 접근하기 위한 3가지의 방법론
 author: piorosen
 categories: [Blogging, Present]
 tags: [ssh,vpn,proxy,]
