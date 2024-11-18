@@ -55,6 +55,10 @@ ETRI 하계 연구 연수생 인턴 [ETRI 권용인 박사님]<br>
 <details>
 <summary>Conference</summary>
 
+<a href="/assets/paper/2024_11_15_Utilization_of_Virtual_Containers_via_Priviliege_Restriction_in_Embedded_Systems.pdf">
+임베디드 시스템에서 권한 제한을 통한 가상 컨테이너 활용 방안
+</a><br>차주형,권용인.(2024).2024년 대한임베디드공학회 추계학술대회<br><br>
+
 <a href="/assets/paper/2024_05_Structure_of_Framework_for_Berthing_Simulation_of_Autonomous_Ships.pdf">
 자율운항선박의 접안 시뮬레이션을 위한 프레임워크 구성
 </a><br>전임록,차주형,이재용.(2024).2024년도 한국해양과학기술협의회 공동학술대회<br><br>
