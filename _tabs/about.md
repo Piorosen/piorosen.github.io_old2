@@ -55,6 +55,10 @@ ETRI 하계 연구 연수생 인턴 [ETRI 권용인 박사님]<br>
 <details>
 <summary>Conference</summary>
 
+<a href="https://neurips.cc/virtual/2024/84699">
+ML$^2$Tuner: Efficient Code Tuning via Multi-Level Machine Learning Models
+</a><br><b>JooHyoung Cha</b>, Munyoung Lee, Jinse Kwon, Jubin Lee, Jemin Lee, Yongin Kwon<br><a href="http://mlforsystems.org/accepted_papers.html">ML for System at Neurips 2024</a><br><br>
+
 <a href="/assets/paper/2024_11_15_Utilization_of_Virtual_Containers_via_Priviliege_Restriction_in_Embedded_Systems.pdf">
 임베디드 시스템에서 권한 제한을 통한 가상 컨테이너 활용 방안
 </a><br>차주형,권용인.(2024).2024년 대한임베디드공학회 추계학술대회 <a href="/assets/img/resources/IEMEK_2024_11.pdf">[PDF]</a><br><br>
@@ -69,7 +73,7 @@ ETRI 하계 연구 연수생 인턴 [ETRI 권용인 박사님]<br>
 
 <a href="https://neurips.cc/virtual/2023/84439">
 ACLTuner: A Profiling-Driven Fast Tuning to Optimized Deep Learning Inference
-</a><br>Yongin Kwon, Joo Hyoung Cha, Jubin Lee, Misun Yu, Jeman Park, Jemin Lee<br><a href="http://mlforsystems.org/neurips2023/accepted_papers.html">ML for System at Neurips 2023</a><br><br>
+</a><br>Yongin Kwon, <b>Joo Hyoung Cha</b>, Jubin Lee, Misun Yu, Jeman Park, Jemin Lee<br><a href="http://mlforsystems.org/neurips2023/accepted_papers.html">ML for System at Neurips 2023</a><br><br>
 
 <a href="/assets/paper/2023_10_Deep_Learning_based_Motion_Recognition_Using_Sound_Event.pdf">
 소리 정보를 이용한 딥 러닝 기반의 동작 인식
