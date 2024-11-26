@@ -130,7 +130,7 @@ An Effective Method for Generating Color Images Using Genetic Algorithm
 
 <a href="/assets/paper/2016_가야호 디젤엔진의 SCR개발 및 질소산화물 저감율과 개선방향에 관한 연구.pdf">
 유전자 알고리즘을 이용한 흑백 이미지 생성 기법
-</a><br>차주형*, 저자 미상*, 정석호(* equal contributions).(2016).투고 위치 미상<a href="/assets/pdfs/2016_SCR.pdf">[PDF]</a><br><br>
+</a><br>차주형*, 이현석*, 임희수*, 저자 미상*, 정석호(* equal contributions).(2016).투고 위치 미상<a href="/assets/pdfs/2016_SCR.pdf">[PDF]</a><br><br>
 
 
 </details>
