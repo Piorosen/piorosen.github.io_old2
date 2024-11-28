@@ -110,7 +110,7 @@ ACLTuner: A Profiling-Driven Fast Tuning to Optimized Deep Learning Inference
 
 <a href="/assets/paper/2020_10_딥러닝을 활용한 위험 지역 예측 기법.pdf">
 딥러닝을 활용한 위험지역 예측기법
-</a><br>차주형, 김성희, 우영운.(2020).한국정보통신학회 종합학술대회 논문집,24(2),308-310.<br><br>
+</a><br>차주형, 김성희, 우영운.(2020).한국정보통신학회 종합학술대회 논문집,24(2),308-310.<a href="/assets/pdfs/2020_10_Prediction_Method_of_Danger_Areas_Using_Deep  Learning.pdf">[PDF]</a><br><br>
 
 <a href="/assets/paper/2019_10_유전자 알고리즘을 활용한 차량 선적 최적화 기법.pdf">
 유전자 알고리즘을 활용한 차량 선적 최적화 기법
